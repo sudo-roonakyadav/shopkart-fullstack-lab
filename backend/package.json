@@ -1,0 +1,35 @@
+{
+  "name": "shopkart-backend",
+  "version": "1.0.0",
+  "description": "ShopKart Backend Service (Labs 01 - 05)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "seed": "node seed.js",
+    "orders": "node view-orders.js",
+    "test": "node test-lab6.js && node test-payment-security.js",
+    "test:security": "node test-payment-security.js",
+    "test:lab6": "node test-lab6.js",
+    "test:comprehensive": "node test-comprehensive.js"
+  },
+  "keywords": [
+    "shopkart",
+    "mern",
+    "express",
+    "mongoose"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb-memory-server": "^9.2.0",
+    "mongoose": "^8.4.1",
+    "razorpay": "^2.9.8"
+  }
+}

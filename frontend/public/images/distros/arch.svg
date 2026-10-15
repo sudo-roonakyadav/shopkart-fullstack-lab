@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="100%" height="100%">
+  <rect width="240" height="160" fill="#FAFAFA" stroke="#E5E5E5" stroke-width="1"/>
+  <!-- Arch Linux Triangle Logo -->
+  <g transform="translate(120, 60)">
+    <!-- Arch peak silhouette -->
+    <path d="M0,-30 L28,26 L12,24 L16,14 L0,20 L-16,14 L-12,24 L-28,26 Z" fill="#1793D1"/>
+    <!-- Internal cut -->
+    <path d="M0,-14 L10,12 L-10,12 Z" fill="#FAFAFA"/>
+  </g>
+  <!-- Typography -->
+  <text x="120" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="800" fill="#111111" text-anchor="middle" letter-spacing="1">ARCH LINUX</text>
+  <text x="120" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#666666" text-anchor="middle" letter-spacing="0.5">ROLLING RELEASE ISO</text>
+</svg>

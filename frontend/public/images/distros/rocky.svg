@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="100%" height="100%">
+  <rect width="240" height="160" fill="#FAFAFA" stroke="#E5E5E5" stroke-width="1"/>
+  <!-- Rocky Linux Logo -->
+  <g transform="translate(120, 60)">
+    <circle r="34" fill="#0F172A"/>
+    <!-- Faceted green mountain / ring -->
+    <path d="M-18,16 L0,-20 L18,16 Z" fill="none" stroke="#10B981" stroke-width="5" stroke-linejoin="round"/>
+    <circle cx="0" cy="4" r="5" fill="#10B981"/>
+  </g>
+  <!-- Typography -->
+  <text x="120" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="800" fill="#111111" text-anchor="middle" letter-spacing="1">ROCKY LINUX</text>
+  <text x="120" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#666666" text-anchor="middle" letter-spacing="0.5">9 ENTERPRISE ISO</text>
+</svg>

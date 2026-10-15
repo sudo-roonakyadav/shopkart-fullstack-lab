@@ -1,0 +1,13 @@
+{
+  "name": "shopkart-mern-root",
+  "version": "1.0.0",
+  "description": "ShopKart MERN Project (Labs 01 - 05)",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "seed": "cd backend && npm run seed",
+    "backend": "cd backend && npm start",
+    "frontend": "cd frontend && npm run dev",
+    "orders": "node backend/view-orders.js",
+    "test": "cd backend && npm test"
+  }
+}

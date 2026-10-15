@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="100%" height="100%">
+  <rect width="240" height="160" fill="#FAFAFA" stroke="#E5E5E5" stroke-width="1"/>
+  <!-- Linux Mint Logo -->
+  <g transform="translate(120, 60)">
+    <circle r="34" fill="#87CF3E"/>
+    <!-- Mint LM Outline -->
+    <rect x="-24" y="-18" width="48" height="36" rx="8" fill="#FFFFFF"/>
+    <!-- LM letters inside badge -->
+    <path d="M-14,-8 L-14,10 L-6,10 M-2,10 L-2,-2 C-2,-8 4,-8 4,-2 L4,10 M4,-2 C4,-8 10,-8 10,-2 L10,10" fill="none" stroke="#87CF3E" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- Typography -->
+  <text x="120" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="800" fill="#111111" text-anchor="middle" letter-spacing="1">LINUX MINT</text>
+  <text x="120" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#666666" text-anchor="middle" letter-spacing="0.5">22 CINNAMON ISO</text>
+</svg>
